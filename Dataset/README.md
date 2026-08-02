@@ -2,15 +2,15 @@
 
 
 
-This dashboard was built using the Sample Superstore dataset.
+This dashboard was built using the HR Analytics dataset.
 
 
 
 Dataset source:
 
-\- Original dataset owner: Rohit Sahoo
+\- Original dataset owner: anshika2301
 
-\- Original download page: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+\- Original download page: https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset?select=HR_Analytics.csv
 
 
 
