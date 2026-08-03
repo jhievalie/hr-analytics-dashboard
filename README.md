@@ -190,7 +190,7 @@ Please download the dataset from its original source and place it inside the `Da
 
 Dataset Source:
 
-*(Add the Kaggle or IBM dataset link here.)*
+https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ---
 
