@@ -2,7 +2,7 @@
 
 
 
-This dashboard was built using the Sample Superstore dataset.
+This dashboard was built using the HR Analytics dataset.
 
 
 
